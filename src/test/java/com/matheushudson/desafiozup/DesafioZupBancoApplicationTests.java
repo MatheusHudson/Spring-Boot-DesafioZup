@@ -1,4 +1,4 @@
-package com.matheushudson.cursomc;
+package com.matheushudson.desafiozup;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
